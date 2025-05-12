@@ -1,0 +1,8 @@
+Daszkabag1/
+├── client/
+├── server/
+│   └── server.js
+├── package.json  ✅ ← musi być tutaj!
+"scripts": {
+  "start": "node server/server.js"
+}
